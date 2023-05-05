@@ -1,2 +1,2 @@
-# wakamann-js-projects
-A repo  for JS tutorials and projects
+# wakamann-projects
+A repo  for frontend tutorials and projects
